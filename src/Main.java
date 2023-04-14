@@ -15,5 +15,6 @@ public class Main {
         System.out.println("Idade: "+aluno01.getIdade());
         System.out.println("Sexo: "+aluno01.getSexo());
         System.out.println("Matricula: "+aluno01.getMatricula());
+
     }
 }
